@@ -15,7 +15,7 @@
 const me = {
   code: ["C++", "Java"],
   tools: ["MATLAB", "Swing", "Git"],
-  interests: ["Game Dev", "Web Dev", "AI Basics", "Competitive Programming"],
+  interests: ["Game Dev", "Web Dev","Competitive Programming"],
   softSkills: ["Problem Solving", "Teamwork", "Self-Learning", "Presentation"],
 }
 
